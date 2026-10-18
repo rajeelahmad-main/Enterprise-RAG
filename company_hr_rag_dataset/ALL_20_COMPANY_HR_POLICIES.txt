@@ -1,0 +1,271 @@
+
+========================================================================================
+SOURCE FILE: 01_employee_handbook.md
+========================================================================================
+
+# Employee Handbook
+Company: Northstar Digital Services (fictional training company)
+Document ID: HR-001 | Version: 1.0
+
+## Purpose and scope
+This handbook summarizes workplace expectations and common employee procedures. It applies to full-time and part-time employees unless a policy says otherwise. It is a training example, not legal advice or a real employer policy.
+
+## Working hours
+The standard schedule is Monday through Friday, 9:00 a.m. to 5:30 p.m., with a one-hour lunch break. Teams may agree different schedules with their manager. Employees should notify their manager as early as possible if they expect to arrive late or miss work.
+
+## Questions and updates
+Employees should contact People Operations for clarification. The company reviews policies annually and may revise them. The latest approved policy version takes precedence over an older copy.
+
+========================================================================================
+SOURCE FILE: 02_annual_leave_policy.md
+========================================================================================
+
+# Annual Leave Policy
+Document ID: HR-002 | Owner: People Operations
+
+## Entitlement
+Full-time employees receive 18 working days of annual leave per completed year of service, accrued monthly. Part-time entitlement is prorated according to contracted hours.
+
+## Requesting leave
+Submit a request in the HR portal at least five working days before a planned absence of one or two days, and at least ten working days before an absence of three or more consecutive days. A manager normally responds within three working days. Approval depends on team coverage and project commitments.
+
+## Carryover and cancellation
+Up to five unused days may be carried into the next calendar year and must be used by March 31. Additional carryover requires written approval from People Operations. If business needs require a change to approved leave, the manager should discuss alternatives with the employee.
+
+========================================================================================
+SOURCE FILE: 03_sick_leave_policy.md
+========================================================================================
+
+# Sick Leave and Absence Reporting
+Document ID: HR-003 | Owner: People Operations
+
+Employees may take up to 10 paid sick days per calendar year under this fictional policy. Notify your manager and the attendance channel before your normal start time whenever possible. If illness continues for more than three consecutive working days, People Operations may request reasonable supporting documentation consistent with applicable law.
+
+Sick leave is not a substitute for annual leave. Do not share private medical details with coworkers; provide necessary documentation only through the approved confidential HR process. If an absence may be work-related, tell People Operations so the incident can be reviewed.
+
+========================================================================================
+SOURCE FILE: 04_remote_work_policy.md
+========================================================================================
+
+# Remote and Hybrid Work Policy
+Document ID: HR-004 | Owner: People Operations and IT
+
+## Eligibility and approval
+Roles suitable for remote work may use a hybrid schedule with up to three remote days per week, subject to manager approval and client requirements. Remote work is a working arrangement, not a guaranteed benefit, and may be adjusted after discussion.
+
+## Availability
+Employees should be reachable during agreed core hours of 10:00 a.m. to 3:00 p.m. local team time and keep their calendar current. Meetings and deadlines remain the same whether an employee is at home or in the office.
+
+## Security and equipment
+Use company-managed devices, approved software, multifactor authentication, and a private network. Do not let household members use company devices. Report lost equipment or suspected exposure of company data to IT immediately.
+
+========================================================================================
+SOURCE FILE: 05_code_of_conduct.md
+========================================================================================
+
+# Code of Conduct
+Document ID: ETH-001 | Owner: Compliance
+
+Everyone is expected to act honestly, respectfully, and professionally. Harassment, discrimination, bullying, retaliation, fraud, and deliberate misuse of company resources are prohibited.
+
+Employees must protect confidential information, respect intellectual property, follow safety rules, and accurately record business activity. Raise concerns with a manager, People Operations, or the confidential reporting channel. Reports will be reviewed fairly and shared only with people who need the information to investigate.
+
+Retaliation against someone who raises a concern in good faith or participates in an investigation is prohibited. Violations may result in corrective action, up to and including termination, consistent with applicable law and company procedures.
+
+========================================================================================
+SOURCE FILE: 06_anti_harassment_policy.md
+========================================================================================
+
+# Anti-Harassment and Equal Opportunity Policy
+Document ID: ETH-002 | Owner: People Operations
+
+Northstar Digital Services (fictional) aims to provide a workplace free from harassment and unlawful discrimination. Decisions about hiring, pay, assignments, promotion, and termination should be based on job-related criteria and applicable law.
+
+Harassment can include unwelcome verbal, written, physical, or online conduct that creates an intimidating or hostile work environment. Employees may report concerns to any manager, People Operations, or the confidential reporting channel. A person may bypass their direct manager if that manager is involved.
+
+The company will assess reports promptly, protect privacy as far as practical, and prohibit retaliation. Employees should preserve relevant messages or records and avoid conducting their own confrontations or investigations.
+
+========================================================================================
+SOURCE FILE: 07_onboarding_checklist.md
+========================================================================================
+
+# New Employee Onboarding Checklist
+Document ID: HR-007 | Owner: People Operations
+
+## Before the first day
+The hiring manager confirms the start date, role, equipment needs, and onboarding buddy. IT prepares the laptop, work accounts, and required access. People Operations sends the employee the first-week schedule and required forms.
+
+## First day
+The employee meets their manager and buddy, reviews the handbook and code of conduct, sets up multifactor authentication, and completes required payroll and emergency-contact forms through approved systems.
+
+## First month
+The manager agrees goals for the first 30 days, schedules role-specific training, and holds a check-in at the end of week one and week four. Access not needed for the role should not be granted.
+
+========================================================================================
+SOURCE FILE: 08_performance_review_policy.md
+========================================================================================
+
+# Performance Review Policy
+Document ID: HR-008 | Owner: People Operations
+
+Formal performance reviews occur twice each year. Employees and managers discuss outcomes against agreed goals, role competencies, collaboration, quality, and development needs. Employees should prepare a short self-review and examples of their work.
+
+Managers should provide specific, balanced feedback and document agreed actions. A review rating does not automatically guarantee a salary increase or promotion; decisions also depend on role scope, budget, business needs, and internal equity.
+
+If performance is below expectations, the manager should explain the gap, provide support, and set measurable improvement goals with a reasonable review period. Employees may add written comments to the review record.
+
+========================================================================================
+SOURCE FILE: 09_compensation_and_payroll.md
+========================================================================================
+
+# Compensation and Payroll Guide
+Document ID: HR-009 | Owner: Finance and People Operations
+
+Salary is paid monthly on the final business day of each month. If a bank holiday affects processing, Finance will communicate the expected payment date. Employees should verify their bank details through the secure HR portal and never send banking credentials by email or chat.
+
+Payroll questions should be submitted to payroll@northstar.example with the pay period and a description of the issue. Do not include full payment-card details or passwords. Approved changes to salary or recurring allowances must be documented by authorized management and People Operations.
+
+This guide does not set individual salaries and is not a substitute for an employee's signed offer or applicable local requirements.
+
+========================================================================================
+SOURCE FILE: 10_expense_reimbursement_policy.md
+========================================================================================
+
+# Business Expense and Reimbursement Policy
+Document ID: FIN-010 | Owner: Finance
+
+Expenses must be reasonable, necessary for approved business, and supported by itemized receipts. Submit claims in the expense system within 30 days of purchase. Claims should include the business purpose, date, currency, project or cost center, and receipt.
+
+Manager approval is required before reimbursement. Travel, accommodation, and purchases above the team's spending limit require pre-approval. Personal expenses, traffic fines, duplicate claims, and expenses without a business purpose are not reimbursable.
+
+Finance normally processes complete approved claims within ten business days. If a claim is rejected, the employee receives a reason and may correct and resubmit it.
+
+========================================================================================
+SOURCE FILE: 11_information_security_policy.md
+========================================================================================
+
+# Information Security Policy
+Document ID: IT-011 | Owner: IT Security
+
+Employees must use unique passwords, multifactor authentication, approved password managers, and company-approved storage. Never share credentials or approve an unexpected login prompt. Lock the screen when leaving a device unattended.
+
+Store company data only in approved systems and give access based on business need. Do not upload confidential files to personal cloud drives or unapproved AI tools. Verify unexpected payment or access requests through a separate trusted channel.
+
+Report suspected phishing, malware, lost devices, accidental disclosure, or unusual account activity to security@northstar.example immediately. Do not delete evidence or attempt to investigate a suspected incident independently.
+
+========================================================================================
+SOURCE FILE: 12_data_privacy_and_retention.md
+========================================================================================
+
+# Data Privacy and Records Retention
+Document ID: IT-012 | Owner: Privacy Officer
+
+Collect and use personal data only for a legitimate business purpose and only the minimum amount needed. Access employee, applicant, customer, and supplier records only when authorized for your role. Do not copy personal data to personal devices or share it with unauthorized recipients.
+
+Use approved systems to store records. Follow the retention schedule set by Legal and Compliance; do not independently destroy records subject to an audit, investigation, or legal hold. Requests to correct, access, or delete personal data should be forwarded to the Privacy Officer.
+
+If personal data is sent to the wrong person or exposed unexpectedly, notify IT Security and the Privacy Officer promptly, even if you are unsure whether harm occurred.
+
+========================================================================================
+SOURCE FILE: 13_learning_and_development_policy.md
+========================================================================================
+
+# Learning and Development Policy
+Document ID: HR-013 | Owner: People Operations
+
+Employees may request role-related training, certifications, conferences, or learning subscriptions through their manager. Requests should explain the skill gap, expected business benefit, cost, and time commitment. Approval depends on budget, workload, and role relevance.
+
+Training costing more than 500 fictional currency units requires manager and department-head approval before booking. Employees must not commit the company to a purchase before approval. After a course, the employee should share a brief summary or useful materials with the team when appropriate.
+
+Mandatory security, privacy, safety, and conduct training must be completed by the stated deadline.
+
+========================================================================================
+SOURCE FILE: 14_travel_and_working_away_policy.md
+========================================================================================
+
+# Business Travel Policy
+Document ID: FIN-014 | Owner: Finance and Operations
+
+Business travel requires manager approval before tickets or accommodation are booked. Employees should choose reasonable fares and accommodation that balance cost, safety, and business needs. Personal extensions must be clearly separated from business costs.
+
+Keep itemized receipts and submit expenses within 30 days after the trip. Alcohol, personal entertainment, upgrades without approval, and costs for accompanying guests are not reimbursable unless a written exception is authorized in advance.
+
+Before international travel, check security guidance, entry requirements, device-handling requirements, and insurance arrangements with Operations. Do not discuss sensitive company information in public spaces.
+
+========================================================================================
+SOURCE FILE: 15_grievance_and_whistleblowing_policy.md
+========================================================================================
+
+# Grievance and Whistleblowing Procedure
+Document ID: ETH-015 | Owner: Compliance and People Operations
+
+Employees may raise concerns about workplace treatment, policy violations, fraud, safety, conflicts of interest, or suspected unlawful conduct. Reports can be made to a manager, People Operations, Compliance, or the confidential reporting channel.
+
+Include dates, people involved, a clear description, and available supporting information. Reporters do not need to prove the allegation before raising a good-faith concern. The company will assess the report, determine an appropriate reviewer, and limit information sharing to those who need it.
+
+Retaliation for a good-faith report is prohibited. Deliberately false reports made with malicious intent may be handled under the code of conduct. Emergency threats to safety should be reported to local emergency services first.
+
+========================================================================================
+SOURCE FILE: 16_conflict_of_interest_policy.md
+========================================================================================
+
+# Conflict of Interest Policy
+Document ID: ETH-016 | Owner: Compliance
+
+Employees should avoid situations where personal, financial, or family interests could improperly influence business decisions or appear to do so. Examples include selecting a supplier owned by a close relative, accepting valuable gifts from a bidder, or using confidential information for personal gain.
+
+Disclose a potential conflict to your manager and Compliance before participating in the related decision. Compliance will assess the facts and may require recusal, additional review, or other safeguards. Do not assume a conflict is acceptable simply because no improper action has occurred.
+
+Modest customary business courtesies may be allowed when infrequent, transparent, and not intended to influence a decision. Cash gifts are never permitted.
+
+========================================================================================
+SOURCE FILE: 17_employee_complaints_and_open_door.md
+========================================================================================
+
+# Employee Feedback and Open-Door Procedure
+Document ID: HR-017 | Owner: People Operations
+
+Employees are encouraged to raise questions early and respectfully. For routine issues, start with the relevant manager if comfortable doing so. If the issue concerns that manager, is sensitive, or remains unresolved, contact People Operations.
+
+When submitting a concern, state what happened, when it happened, the impact, and the outcome you are seeking. People Operations will acknowledge the concern within three business days and advise on next steps. Complex matters may take longer, and updates will be provided when practical.
+
+This procedure does not replace emergency, security incident, harassment, or whistleblowing channels, which should be used when relevant.
+
+========================================================================================
+SOURCE FILE: 18_asset_and_device_use_policy.md
+========================================================================================
+
+# Company Asset and Device Use
+Document ID: IT-018 | Owner: IT
+
+Company devices, software accounts, and equipment are provided for authorized business use. Limited personal use is acceptable if lawful, infrequent, secure, and not disruptive. Employees must not disable security controls, install unapproved software, or lend devices to unauthorized people.
+
+Keep equipment physically secure and return it when requested or when employment ends. Report loss, theft, damage, or suspected compromise immediately. IT may monitor company systems to protect security, maintain service, and meet legal obligations, subject to applicable law and published notices.
+
+Do not expect personal files stored on company systems to remain private. Avoid storing personal sensitive data on company equipment.
+
+========================================================================================
+SOURCE FILE: 19_recruitment_and_referral_policy.md
+========================================================================================
+
+# Recruitment and Employee Referral Policy
+Document ID: HR-019 | Owner: Talent Acquisition
+
+Hiring decisions should be fair, consistent, documented, and based on job-related criteria. Hiring managers define role requirements with Talent Acquisition, review candidates against those requirements, and avoid questions unrelated to the role or prohibited by law.
+
+Employees may refer qualified candidates through the official referral form. A referral does not guarantee an interview or offer. Referral awards, if offered, are governed by the current internal program rules and are payable only after eligibility checks and the required employment period.
+
+Interview notes should be professional, relevant, and stored only in the approved recruitment system. Candidate information must not be shared outside the hiring process.
+
+========================================================================================
+SOURCE FILE: 20_resignation_and_offboarding.md
+========================================================================================
+
+# Resignation and Offboarding Procedure
+Document ID: HR-020 | Owner: People Operations and IT
+
+Employees who resign should provide written notice to their manager and People Operations according to their employment agreement and applicable law. People Operations confirms the final working date and explains any required handover steps.
+
+Before departure, the manager identifies open work, documentation, client handover, and return of company assets. IT disables access according to the approved departure schedule and preserves records as required. Employees must not retain company confidential information or forward work files to personal accounts.
+
+Finance and People Operations explain final payroll, approved expense claims, benefits end dates, and any required exit documents. Exit feedback is voluntary and should be handled respectfully.
