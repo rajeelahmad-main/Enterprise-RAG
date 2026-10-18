@@ -9,8 +9,18 @@ const DATASET_DIR = path.resolve(__dirname, '../company_hr_rag_dataset');
 const OUTPUT_DIR = path.resolve(__dirname, '../src/data');
 const OUTPUT_FILE = path.join(OUTPUT_DIR, 'embedded_knowledge_base.json');
 
-// Get API Key from environment or fallback to user provided key
-const API_KEY = process.env.GEMINI_API_KEY || '';
+function getApiKey() {
+  if (process.env.GEMINI_API_KEY) return process.env.GEMINI_API_KEY;
+  const envPath = path.resolve(__dirname, '../.env.local');
+  if (fs.existsSync(envPath)) {
+    const raw = fs.readFileSync(envPath, 'utf-8');
+    const match = raw.match(/GEMINI_API_KEY=([^\r\n]+)/);
+    if (match) return match[1].trim();
+  }
+  return '';
+}
+
+const API_KEY = getApiKey();
 const EMBED_MODEL = process.env.GEMINI_EMBEDDING_MODEL || 'gemini-embedding-001';
 
 // Vector normalization for fast cosine similarity via dot product

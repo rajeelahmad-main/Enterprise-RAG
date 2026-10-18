@@ -2,8 +2,8 @@ import type { Metadata } from 'next';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'Northstar HR Intelligence | Enterprise Policy Assistant',
-  description: 'Enterprise HR Knowledge & Policy Assistant powered by Gemini RAG and Role-Based Authentication',
+  title: 'Sukkur IBA University | HR Intelligence Assistant',
+  description: 'Sukkur IBA University (SIBAU) Employee Handbook 2018 Policy Assistant powered by Gemini RAG',
   icons: {
     icon: '/favicon.ico',
   },

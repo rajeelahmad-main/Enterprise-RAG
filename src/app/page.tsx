@@ -96,7 +96,7 @@ export default function HRRAGChatApp() {
       id: 'welcome_1',
       role: 'assistant',
       content:
-        "Hi there! 👋 I'm your Northstar HR Advisor, here to walk you through our company policies, workplace guidelines, and employee entitlements.\n\nFeel free to ask me anything about your annual leave, hybrid working guidelines, expense claims, payroll schedules, or IT security. You can ask naturally in **English, Urdu (اردو), Roman Urdu, Spanish, or any language** you feel comfortable with.\n\nWhat can I help you with today?",
+        "Hi there! 👋 I'm your Sukkur IBA University (SIBAU) HR Advisor, here to walk you through our official **2018 Employee Handbook**.\n\nYou can ask me detailed questions about **Earned Leave (30 days), Casual & Sick leave, Laptop & Vehicle loans, PhD/MS qualification allowances, Tuition fee waivers, Provident Fund & Gratuity, or Campus Transport & Carry Bolan emergency service**.\n\nFeel free to ask naturally in **English, Urdu (اردو), Roman Urdu, or Sindhi (سنڌي)**. How can I help you today?",
       timestamp: new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' }),
     },
   ]);
@@ -112,25 +112,25 @@ export default function HRRAGChatApp() {
 
   // Ingest form state (HR Admin)
   const [newTitle, setNewTitle] = useState('');
-  const [newDocId, setNewDocId] = useState('HR-021');
-  const [newOwner, setNewOwner] = useState('People Operations');
-  const [newSection, setNewSection] = useState('Overview');
+  const [newDocId, setNewDocId] = useState('SIBAU-POL-NEW');
+  const [newOwner, setNewOwner] = useState('Registrar Office');
+  const [newSection, setNewSection] = useState('General Rules');
   const [newContent, setNewContent] = useState('');
   const [ingestLoading, setIngestLoading] = useState(false);
   const [ingestFeedback, setIngestFeedback] = useState<string | null>(null);
 
   const messagesEndRef = useRef<HTMLDivElement>(null);
 
-  // Multilingual quick suggestions
+  // Multilingual SIBAU quick suggestions
   const suggestedQuestions = [
-    { label: '🇬🇧 Annual Leave entitlement?', query: 'How many annual leave days are provided each year?' },
-    { label: '🇬🇧 Remote Work Policy?', query: 'How many remote days per week may an eligible employee request?' },
-    { label: '🇬🇧 Suspected Phishing report?', query: 'Who should I notify about a suspected phishing email?' },
-    { label: '🇵🇰 سالانہ چھٹیاں کتنی ہیں؟', query: 'کمپنی پالیسی کے تحت سالانہ کتنی چھٹیاں ملتی ہیں؟' },
-    { label: '🇵🇰 WFH policy kya hai?', query: 'Northstar mein remote work ya work from home ki kya policy hai?' },
-    { label: '🇪🇸 ¿Días de vacaciones al año?', query: '¿Cuántos días de vacaciones anuales se otorgan cada año?' },
-    { label: '🇫🇷 Politique de télétravail?', query: 'Combien de jours de télétravail un employé peut-il demander?' },
-    { label: '🇸🇦 الإبلاغ عن التصيد الاحتيالي؟', query: 'من يجب أن أخطر بشأن بريد إلكتروني مشبوه للتصيد الاحتيالي؟' },
+    { label: '🇬🇧 Earned Leave & Encashment?', query: 'How many days of Earned Leave do employees receive, and what are the encashment rules for non-teaching staff?' },
+    { label: '🇬🇧 Laptop Loan for Faculty?', query: 'What is the amount and repayment term for the Faculty Laptop Loan policy?' },
+    { label: '🇬🇧 PhD & MS Allowances?', query: 'How much are the monthly qualification allowances for PhD and MS/MPhil degrees at Sukkur IBA?' },
+    { label: '🇬🇧 Night Emergency Transport?', query: 'What is the procedure for availing the Carry Bolan emergency transport facility at night?' },
+    { label: '🇵🇰 سالانہ چھٹیاں اور رولز؟', query: 'سکھر آئی بی اے یونیورسٹی میں سالانہ چھٹیاں کتنی ملتی ہیں اور ان کے کیا قواعد ہیں؟' },
+    { label: '🇵🇰 کار لون کی کیا شرائط ہیں؟', query: 'ایمپلائز وہیکل لون اسکیم کے تحت کون اہل ہے اور لون کی واپسی کے کیا اصول ہیں؟' },
+    { label: '🇵🇰 Tuition fee waiver policy?', query: 'SIBAU mein employees aur unke siblings ke liye tuition fee concession ki kya policy hai?' },
+    { label: '🇵🇰 Biometric attendance late rules?', query: 'Subah late anay par biometric attendance machine par kitni leave ya salary deduct hoti hai?' },
   ];
 
   // Check auth session silently (does not block public users!)
@@ -331,14 +331,14 @@ export default function HRRAGChatApp() {
           </div>
           <div>
             <div className="flex items-center gap-2">
-              <span className="font-bold text-slate-900 text-base sm:text-lg tracking-tight">Northstar Digital</span>
+              <span className="font-bold text-slate-900 text-base sm:text-lg tracking-tight">Sukkur IBA University</span>
               <span className="text-[10px] font-bold uppercase tracking-wider bg-emerald-100 text-emerald-800 px-2 py-0.5 rounded-full flex items-center gap-1">
                 <span className="w-1.5 h-1.5 rounded-full bg-emerald-500 animate-pulse"></span>
-                Public HR Bot
+                SIBAU HR Bot
               </span>
             </div>
             <p className="text-xs text-slate-500 hidden sm:block">
-              Multilingual Advisor &bull; 20 Company Policies &bull; Powered by Gemini 3.1 Flash Lite (Backup: 3.5)
+              Employee Handbook 2018 (118 Pages) &bull; Powered by Gemini 3.1 Flash Lite (Backup: 3.5)
             </p>
           </div>
         </div>
@@ -456,7 +456,7 @@ export default function HRRAGChatApp() {
                           </>
                         ) : (
                           <>
-                            <ShieldCheck className="w-4 h-4 text-indigo-600" /> Northstar HR Intelligence
+                            <ShieldCheck className="w-4 h-4 text-indigo-600" /> Sukkur IBA HR Advisor
                           </>
                         )}
                       </span>
