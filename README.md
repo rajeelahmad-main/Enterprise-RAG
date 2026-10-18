@@ -10,7 +10,7 @@ An enterprise-grade Human Resources AI Assistant powered by Google Gemini, vecto
 
 1. **Full 118-Page Sukkur IBA University Handbook Grounding**:
    - Covers all 21 core policy chapters from the official 2018 Handbook (Statutory Introduction, Code of Conduct, Harassment & Smoke-Free campus, Recruitment, Working Hours, Biometric Attendance, Resignation/Lien, Comprehensive Leave, Hostels/Housing, Loans, Provident Fund & Gratuity, Salary & Allowances, TA/DA, Training, Non-Teaching Promotions, Grievance Redressal, Advances/Procurement, Transport SOPs & Point Buses, and ORIC Research).
-   - Vector embeddings generated via `gemini-embedding-001` (3,072 normalized dimensions across 72 semantic chunks).
+   - Vector embeddings generated via `gemini-embedding-001` (3,072 normalized dimensions across 114 semantic chunks parsed directly from the official `Sukkur_IBA_University_Handbook_2018.pdf`).
    - Instant cosine similarity vector search with lexical boosts — 0ms cold-start serverless search.
 
 2. **Next-Gen Gemini Models (`gemini-3.1-flash-lite` & `gemini-3.5-flash-lite`)**:
